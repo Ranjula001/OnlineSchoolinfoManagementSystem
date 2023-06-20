@@ -2,7 +2,12 @@
 
 An **online school information management system**.  
 
-The project was completed as a part of the semester assignment of the OOP module for the BSc. in IT(Spec. in Software Engineering) Year 2, 1st semester at SLIIT.  
+The project was completed as a part of the semester assignment of the OOP module for the BSc. in IT(Spec. in Software Engineering) Year 2, 1st semester at SLIIT.
+# Contributors
+  1. Ranjula Ilukpitiya
+  2. Dulara Rathnayake
+  3. Pramudith Maleesha
+  4. Rusiru Bandara
 
 ## Technologies
 
